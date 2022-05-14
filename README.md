@@ -1,7 +1,7 @@
 ## Hi there, I'm Imad harile [iharile]  
 
 
-![](https://badge.mediaplus.ma/binary/iharile)
+![](https://badge.mediaplus.ma/binary/imaddine1)
 
 
 [![iharile GitHub stats](https://github-readme-stats.vercel.app/api?username=imaddine1&show_icons=true&theme=radical)](https://github.com/imaddine1)

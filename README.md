@@ -1,7 +1,6 @@
 ## Hi there, I'm Imad harile [iharile]  
 
 
-[!](https://badge.mediaplus.ma/greenbinary/iharile)
 [![iharile's 42 stats](https://badge.mediaplus.ma/greenbinary/iharile)](https://github.com/oakoudad/badge42)
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/iharile" alt="iharile's 42 stats" /></a>
 

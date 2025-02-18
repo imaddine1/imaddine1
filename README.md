@@ -1,4 +1,4 @@
-# Imad Harile - Software Developer at 1337 school
+# Imad Harile - Software Engineer at 1337 school
 
 Welcome to my GitHub profile! I'm Imad Harile, a passionate software developer with expertise in a variety of programming languages and tools. I love problem-solving and enjoy participating in coding challenges on platforms like LeetCode.
 
